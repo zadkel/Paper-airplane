@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\triggerTest.cs">
+    <Files>
+      <File FileName="Assets\Script\triggerTest.cs" Line="15" Column="11" />
+      <File FileName="Assets\Script\varManage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\settingManage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\main2select.cs" Line="11" Column="36" />
+      <File FileName="Assets\Script\HP\HP_manage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\HP\HP_bar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\HP\HP_boss.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

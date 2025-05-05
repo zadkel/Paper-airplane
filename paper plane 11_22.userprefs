@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\InGame\HP\Static_HP_manage.cs">
+    <Files>
+      <File FileName="Assets\Script\InGame\crtDeath.cs" Line="15" Column="36" />
+      <File FileName="Assets\Script\InGame\Pat\Difficulty.cs" Line="5" Column="2" />
+      <File FileName="Assets\Script\InGame\BossPat\bossMove0.cs" Line="16" Column="3" />
+      <File FileName="Assets\Script\InGame\BossPat\Pat_1h_Control.cs" Line="60" Column="21" />
+      <File FileName="Assets\Script\InGame\BossPat\Pat_3h_Control.cs" Line="73" Column="57" />
+      <File FileName="Assets\Script\InGame\phaseEnd.cs" Line="43" Column="23" />
+      <File FileName="Assets\Script\InGame\BossPat\Pat_2h_Coltrol.cs" Line="96" Column="51" />
+      <File FileName="Assets\Script\InGame\Pat\boss_61h.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\InGame\Pat\boss_62h.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\InGame\BossPat\BossMove1.cs" Line="24" Column="61" />
+      <File FileName="Assets\Script\InGame\BossPat\BossMove2.cs" Line="26" Column="61" />
+      <File FileName="Assets\Script\InGame\Pat\boss_91h.cs" Line="37" Column="26" />
+      <File FileName="Assets\Script\InGame\Pat\Pat_91h.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\InGame\Pat\Pat_171h.cs" Line="20" Column="12" />
+      <File FileName="Assets\Script\InGame\HP\Static_HP_manage.cs" Line="16" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

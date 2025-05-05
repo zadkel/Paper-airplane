@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Pat\Pat_62h.cs">
+    <Files>
+      <File FileName="Assets\Script\Pat\Pat_63h.cs" Line="24" Column="2" />
+      <File FileName="Assets\Script\Pat\Pat_62h.cs" Line="33" Column="3" />
+      <File FileName="Assets\Script\Pat\Pat_61h.cs" Line="32" Column="3" />
+      <File FileName="Assets\Script\Pat\boss_61h.cs" Line="30" Column="13" />
+      <File FileName="Assets\Script\Pat\boss_62h.cs" Line="27" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

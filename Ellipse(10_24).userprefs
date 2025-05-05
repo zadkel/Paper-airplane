@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\InGame\HP\HP_bar.cs">
+    <Files>
+      <File FileName="Assets\Script\InGame\Static_varManage.cs" Line="6" Column="41" />
+      <File FileName="Assets\Script\InGame\crtMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\InGame\HP\HP_bar.cs" Line="8" Column="51" />
+      <File FileName="Assets\Script\InGame\HP\Static_HP_manage.cs" Line="10" Column="34" />
+      <File FileName="Assets\Script\Static_Scenemov.cs" Line="20" Column="42" />
+      <File FileName="Assets\Script\InGame\scoreTextShow.cs" Line="16" Column="70" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
